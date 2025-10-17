@@ -5,7 +5,7 @@
 
 Este simulador VR demuestra dos patrones de diseño importantes aplicados en un entorno educativo virtual:
 
-*Patrón Singleton - AdministradorSesionVR
+*Patrón Singleton - AdministradorSesionVR(Instancia)
 
 -Garantiza una sola instancia para gestionar toda la sesión VR
 
@@ -13,7 +13,7 @@ Este simulador VR demuestra dos patrones de diseño importantes aplicados en un 
 
 -Evita conflictos de múltiples administradores de sesión
 
-*Patrón Object Pool - PoolDeObjetos<T>
+*Patrón Object Pool - PoolDeObjetos(Piscina de objetos)
 
 -Reutiliza objetos en lugar de crear/destruir constantemente
 
