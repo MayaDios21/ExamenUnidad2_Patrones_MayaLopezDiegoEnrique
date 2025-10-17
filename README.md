@@ -1,6 +1,8 @@
 # ExamenUnidad2_Patrones_MayaLopezDiegoEnrique
-# Nombre:Diego Enrique Maya Lopez
-# Simulacion educativa en entorno VR
+# Nombre del alumno:
+ Diego Enrique Maya Lopez
+# Titulo Proyecto
+ Simulacion educativa en entorno VR
 # Funcionamiento
 
 Este simulador VR demuestra dos patrones de diseño importantes aplicados en un entorno educativo virtual:
