@@ -1,0 +1,14 @@
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\bin\Debug\net7.0\Examen.exe
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\bin\Debug\net7.0\Examen.deps.json
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\bin\Debug\net7.0\Examen.runtimeconfig.json
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\bin\Debug\net7.0\Examen.dll
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\bin\Debug\net7.0\Examen.pdb
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\obj\Debug\net7.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\obj\Debug\net7.0\Examen.AssemblyInfoInputs.cache
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\obj\Debug\net7.0\Examen.AssemblyInfo.cs
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\obj\Debug\net7.0\Examen.csproj.CoreCompileInputs.cache
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\obj\Debug\net7.0\Examen.dll
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\obj\Debug\net7.0\refint\Examen.dll
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\obj\Debug\net7.0\Examen.pdb
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\obj\Debug\net7.0\Examen.genruntimeconfig.cache
+J:\Patrones de diseño\ExamenUnidad2_Patrones_MayaLopezDiegoEnrique\src\Examen\obj\Debug\net7.0\ref\Examen.dll
